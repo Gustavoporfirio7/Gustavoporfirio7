@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Gustavo!  
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e Técnico em Mecatrônica.  
+Sou Formado emc**Análise e Desenvolvimento de Sistemas** e Técnico em Mecatrônica.  
 Apaixonado por **back-end/front-end e cibersegurança**, estou sempre aprendendo e explorando novas tecnologias.  
 
 ---
